@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124)](https://discord.com/users/619124128506707978)
 
 <!--
 **hivicode/hivicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
