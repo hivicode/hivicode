@@ -17,7 +17,7 @@
 
 <p align="left">
 <a href="https://github.com/hivicode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=transparent&border_radius=1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark"/>
 </a>
 </p>
 <!--
