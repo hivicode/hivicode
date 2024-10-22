@@ -9,6 +9,7 @@
 - ⚡ Fun fact Imma **slow learner** and can **focus on only one** thing.
 
 <h3 align="left">Discord</h3>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124)](https://discord.com/users/619124128506707978)
 
 <h3 align="left">My Instrument:</h3>
