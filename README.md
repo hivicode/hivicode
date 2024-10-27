@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Bintang ⭐</h1>
-<h3 align="center">An Overfocus Banyuwangian(Osing) FE Dev & Graphic Designer</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124)](https://discord.com/users/619124128506707978)
 
