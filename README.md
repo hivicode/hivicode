@@ -18,6 +18,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark"/>
 </a>
 </p>
+
+[![An image of @hivicode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hivicode)](https://holopin.io/@hivicode)
 <!--
 **hivicode/hivicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -
