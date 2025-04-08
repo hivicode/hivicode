@@ -2,11 +2,11 @@
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&)
 
-- 🔭 I’m currently working on **Nekoko Animal Care** Project.
+- 🔭 I’m currently working on **Robinson** Project (not a public project).
 - 🌱 I’m currently learning **TW CSS, React and VueJS**.
 - 💬 I'm **new** to github.
 - 📫 How to reach me: ...
-- ⚡ Fun fact Imma **slow learner** and can **focus on only one** thing.
+- ⚡ Imma **slow learner** and can **focus on only one** thing.
 - ➕ Almost forgot, I also love animals and science like she does, especially car😺.
 
 <h3 align="left">My Instrument</h3>
