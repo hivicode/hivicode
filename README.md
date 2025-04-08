@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **TW CSS, React and VueJS**.
 - 💬 I'm **new** to github.
 - 📫 How to reach me: ...
-- ⚡ Imma **slow learner** and can **focus on only one** thing.
+- ⚡ Imma **slow learner** and can only **focus on one thing**.
 - ➕ Almost forgot, I also love animals and science like she does, especially car😺.
 
 <h3 align="left">My Instrument</h3>
