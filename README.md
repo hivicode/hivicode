@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bintang ⭐</h1>
 
-![Discord Presence](https://https://api.lanyard.rest/v1/users/241615568434626563)
+![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&)
 
 - 🔭 I’m currently working on **Robinson** Project (not a public project).
 - 🌱 I’m currently learning **TW and JS**.
