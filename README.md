@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&)](https://discord.com/users/619124128506707978)
 
-- 🔭 I’m currently working on **Robinson** Project (not a public project).
+- 🔭 Currently I am not working on any projects (free to collab).
 - 🌱 I’m currently learning **TW and JS**.
 - 💬 I'm **new** to github.
 - 📫 How to reach me: ...
