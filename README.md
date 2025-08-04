@@ -5,7 +5,7 @@
 - 🔭 Currently I am not working on any projects (free to collab).
 - 🌱 I’m currently learning **TW and JS**.
 - 💬 I'm **new** to github.
-- 📫 How to reach me: click on the discord profile above****
+- 📫 How to reach me: click on the discord profile above.
 - ⚡ Imma **slow learner** and can only **focus on one thing**.
 - ➕ Almost forgot, I also love animals and science like she does, especially car😺.
 
