@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=DEF8FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bintang+%F0%9F%8C%9F;Welcome+to+my+profile!;NewJeans+Never+Dies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bintang+%F0%9F%8C%9F;Welcome+to+my+profile!;NewJeans+Never+Dies!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hivicode&style=flat-square&color=6366F1" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Sleep-green?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-FF6B6B?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Sleeping-darkgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=flat-square" alt="Location" />
 </div>
 
 ---
