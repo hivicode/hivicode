@@ -1,34 +1,106 @@
-<h1 align="center">Hi, I'm Bintang ⭐</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=DEF8FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bintang+%F0%9F%8C%9F;Welcome+to+my+profile!;NewJeans+Never+Dies!" alt="Typing SVG" />
+</div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&)](https://discord.com/users/619124128506707978)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hivicode&style=flat-square&color=6366F1" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Sleep-green?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-FF6B6B?style=flat-square" alt="Location" />
+</div>
 
-- 🔭 Currently I am not working on any projects (free to collab).
-- 🌱 I’m currently learning **TW and JS**.
-- 💬 I'm **new** to github.
-- 📫 How to reach me: click on the discord profile above.
-- ⚡ Imma **slow learner** and can only **focus on one thing**.
-- ➕ Almost forgot, I also love animals and science like she does, especially car😺.
+---
 
-<h3 align="left">My Instrument</h3>
-<p align="left"><a href="https://getbootstrap.com" rel="noreferrer">&nbsp;</a><a href="https://www.figma.com/" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" border="0" alt="figma" width="40" height="40"></a><a href="https://getbootstrap.com" style="font-family: var(--bs-body-font-family); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align); color: #e13939; text-decoration-line: underline; --bs-link-color-rgb: var(--bs-link-hover-color-rgb); font-size: 18.6667px; letter-spacing: -0.0746667px;" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" border="0" alt="bootstrap" width="40" height="40"></a><a href="https://git-scm.com/" style="background-color: var(--bs-body-bg); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align);" rel="noreferrer">&nbsp;</a><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" border="0" alt="heroku" width="40" height="40" style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align);"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" border="0" alt="python" width="40" height="40" style="background-color: var(--bs-body-bg); color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align);"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" border="0" alt="javascript" width="40" height="40" style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align);"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" border="0" alt="react" width="40" height="40" style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);"><a href="https://heroku.com" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer">&nbsp;</a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" border="0" alt="tailwind" width="40" height="40" style="background-color: var(--bs-body-bg); color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align);"><a href="https://www.w3.org/html/" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" border="0" alt="html5" width="40" height="40"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer">&nbsp;</a><span style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);"></span><a href="https://www.mysql.com/" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" border="0" alt="mysql" width="40" height="40"> </a><span style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);"> </span><a href="https://nodejs.org" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" border="0" alt="nodejs" width="40" height="40"> </a><span style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);"> </span><a href="https://www.php.net" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" border="0" alt="php" width="40" height="40">&nbsp;</a><a href="https://git-scm.com/" style="font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg); color: #e13939; text-decoration-line: underline; --bs-link-color-rgb: var(--bs-link-hover-color-rgb);" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" border="0" alt="git" width="40" height="40"></a></p>
-<p align="left"><span style="color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: 14pt; font-weight: var(--bs-body-font-weight); letter-spacing: -0.004em; text-align: var(--bs-body-text-align); background-color: var(--bs-body-bg);"></span></p>
+<div align="left">
+  <a href="https://discord.com/users/619124128506707978">
+    <img src="https://lanyard.cnrad.dev/api/619124128506707978?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&borderRadius=10px&hideStatus=false&hideDiscriminator=false&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Presence" />
+  </a>
+</div>
 
-<p align="left">
-<a href="https://github.com/hivicode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark"/>
-</a>
-</p>
+## 🚀 **About Me**
 
-[![An image of @hivicode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hivicode)](https://holopin.io/@hivicode)
+<div align="left">
+  
+  > *"What if it ends up with some kind of problems in near future if i tell you?" -Lee H.*
+  
+</div>
+
+- 🔭 **Currently**: Open for collaboration on exciting projects!
+- 🌱 **Learning**: Tailwind CSS & JavaScript (Modern Web Development)
+- 💡 **Interests**: Web Development, UI/UX Design, Open Source
+- 🎯 **Goal**: Building beautiful, functional, and user-friendly applications
+- 🐱 **Fun Fact**: I love animals and science, especially cars! 🚗
+- ⚡ **Learning Style**: Focused learner - one thing at a time for mastery
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+### **🟦 Programming Languages**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### **🎨 Design & Development Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+### **🔧 Frameworks & Libraries**
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
+### **💻 Platforms & OS**
+<div align="left">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="left">
+  <a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&include_all_commits=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hivicode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&&include_all_commits=true&layout=compact"/>
+  </a>
+</div>
+
+---
+
+## 🏆 **Achievements & Badges**
+
+<div align="center">
+  <a href="https://holopin.io/@hivicode">
+    <img src="https://holopin.me/hivicode" alt="@hivicode's Holopin board" />
+  </a>
+</div>
+
+---
+
 <!--
 **hivicode/hivicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--
+
 Here are some ideas to get you started:
--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
