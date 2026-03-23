@@ -25,12 +25,11 @@
 </div>
 
 - **Currently**: Open for collaboration on exciting projects!
-- **Learning**: Tailwind CSS & JavaScript (Modern Web Development)
-- **Interests**: Web Development, UI/UX Design, Open Source
-- **Goal**: Building beautiful, functional, and user-friendly applications
-- **Fun Fact**: I love animals and science, especially cars!
-- **Learning Style**: Focused learner - one thing at a time for mastery
-
+- **Learning**: React
+- **Interests**: Open Source
+- **Goal**: Building user-friendly applications
+- **Fun Fact**: I love animals and science, especially cars! (it's cats)
+- **Learning Style**: Focused learner - one thing at a time
 ---
 
 <div align="left">
